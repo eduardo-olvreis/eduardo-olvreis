@@ -15,3 +15,7 @@
 
 ### 🛠️ Tecnologias que uso
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py)](https://skillicons.dev)
+
+---
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardo-olvreis&show_icons=true&theme=radical)
