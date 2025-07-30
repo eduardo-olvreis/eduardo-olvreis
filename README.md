@@ -7,9 +7,9 @@
 ---
 
 ### 📫 Contato
-- Email: eduardo@email.com
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)
-- Portfólio: [seuportfolio.com](https://seuportfolio.com)
+- Email: eduardo.olvreis@email.com
+- LinkedIn: https://www.linkedin.com/in/eduardo-olvreis/
+- Portfólio: https://eduardo-olvreis.github.io/portfolio/
 
 ---
 
