@@ -2,7 +2,6 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Front-end Developer em formação  
-🚀 Tecnologias: HTML • CSS • JavaScript • React • Python  
 
 ---
 
