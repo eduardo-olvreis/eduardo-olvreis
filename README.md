@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Eduardo
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
 💻 Front-end Developer em formação  
 
 ---
