@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./EDUARDO REIS..png" alt="Eduardo Reis Banner" width="100%">
+  <img src="./banner.png" alt="Eduardo Reis Banner" width="100%">
 
   # Olá! Eu sou o Eduardo Reis 👋
   
