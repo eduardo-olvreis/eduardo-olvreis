@@ -53,7 +53,7 @@
 
 ### 📂 Projetos em Destaque
 
-* **[Portfolio](https://eduardoreis.dev)** - Portfolio profissional (React).
-* **[LearnFlix](https://github.com/eduardo-olvreis/LearnFlix)** - Plataforma de gerenciamento escolar (React).
-* **[CRMed / Back](https://github.com/Grupo-02-Turma-JavaScript-10/projeto_integrador_crm_clinica)** - API RESTful robusta construída em grupo (NestJS e MySQL).
-* **[CRMed / Front](https://github.com/Grupo-02-Turma-JavaScript-10/CRM_clinica_front)** - Interface administrativa moderna desenvolvida em grupo (React e Tailwind CSS).
+* **[Sistema de Faturamento e Estoque](https://github.com/eduardo-olvreis/Korp_Teste_EduardoReis)** - Aplicação full stack para faturamento e controle de estoque, desenvolvida em um teste técnico, utilizando C# (ASP.NET) no back-end e Angular no front-end.
+* **[Portfolio](https://eduardoreis.dev)** - Meu portfólio pessoal, onde apresento meus projetos, habilidades e evolução como desenvolvedor (React).
+* **[CRMed / Back](https://github.com/Grupo-02-Turma-JavaScript-10/projeto_integrador_crm_clinica)** - API REST desenvolvida em equipe para gerenciamento de uma clínica, utilizando NestJS e MySQL.
+* **[CRMed / Front](https://github.com/Grupo-02-Turma-JavaScript-10/CRM_clinica_front)** - Interface administrativa do sistema CRMed, com foco em usabilidade e organização de dados (React + Tailwind CSS).
