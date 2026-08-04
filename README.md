@@ -6,17 +6,18 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-olvreis/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.olvreis@email.com)
   
-  **Desenvolvedor Full Stack | Estudante de ADS**
-  *Transformando ideias em aplicações que funcionam de verdade.*
+  Desenvolvedor .NET / Full Stack | Análise e Desenvolvimento de Sistemas  
+  *Foco na construção de APIs RESTful robustas, escaláveis e testadas no ecossistema .NET.*
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
-- 🛠️ Concluí um bootcamp intensivo na **Generation Brasil**, com foco em desenvolvimento web.
-- 💻 Experiência com **TypeScript (React & NestJS)** e atualmente aprofundando em **C# e ASP.NET**.
-- 📍 Porto Alegre, RS.
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (Infnet).
+* 🛠️ Concluí o bootcamp intensivo da **Generation Brasil** (+420h) focado em desenvolvimento web Full Stack.
+* 💻 Foco principal no ecossistema **.NET (C# / ASP.NET Core)**, **Clean Architecture**, **Testes Automatizados (xUnit/Moq)** e **Docker**.
+* 🌐 Experiência prévia na criação de aplicações web completas com **NestJS**, **React** e **TypeScript**.
+* 📍 Porto Alegre - RS.
 
 ---
 
@@ -53,7 +54,13 @@
 
 ### 📂 Projetos em Destaque
 
-* **[Sistema de Faturamento e Estoque](https://github.com/eduardo-olvreis/Korp_Teste_EduardoReis)** - Aplicação full stack para faturamento e controle de estoque, desenvolvida em um teste técnico, utilizando C# (ASP.NET) no back-end e Angular no front-end.
-* **[Portfolio](https://eduardoreis.dev)** - Meu portfólio pessoal, onde apresento meus projetos, habilidades e evolução como desenvolvedor (React).
-* **[CRMed / Back](https://github.com/Grupo-02-Turma-JavaScript-10/projeto_integrador_crm_clinica)** - API REST desenvolvida em equipe para gerenciamento de uma clínica, utilizando NestJS e MySQL.
-* **[CRMed / Front](https://github.com/Grupo-02-Turma-JavaScript-10/CRM_clinica_front)** - Interface administrativa do sistema CRMed, com foco em usabilidade e organização de dados (React + Tailwind CSS).
+* **[Rental Pipeline API](https://github.com/eduardo-olvreis/rentalpipeline-api)** — API RESTful em .NET e PostgreSQL para gestão de esteiras de locação imobiliária. Desenvolvida com **Clean Architecture**, controle de estado/concorrência, suíte de testes com **xUnit/Moq** e containerização com **Docker**.
+* **[MatchTracker API](https://github.com/eduardo-olvreis/matchtracker-api)** — Web API em .NET / ASP.NET Core focada no gerenciamento de partidas e estatísticas esportivas com **Entity Framework Core**.
+* **[CRMed - Backend](https://github.com/Grupo-02-Turma-JavaScript-10/projeto_integrador_crm_clinica)** — API RESTful Full Stack desenvolvida em grupo sob metodologias ágeis com **NestJS**, **TypeORM** e **MySQL**.
+
+---
+
+### 📬 Vamos nos conectar?
+* **LinkedIn:** [in/eduardo-olvreis](https://www.linkedin.com/in/eduardo-olvreis/)
+* **Portfólio:** [eduardoreis.dev](https://www.eduardoreis.dev/)
+* **E-mail:** eduardo.olvreis@gmail.com
